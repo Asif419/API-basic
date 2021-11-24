@@ -1,0 +1,10 @@
+01. Install Atom/VScode
+02. installing node.js and node version manager
+03. Install MongoDB - https://www.youtube.com/watch?v=FwMwO8pXfq0
+04. Install Postman
+05. Install nodejs package with npm
+  - open cmd
+  - goto desired new folder
+  - npm init
+  - npm install readline-sync --save
+  - npm install package.json

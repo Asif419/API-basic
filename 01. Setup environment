@@ -8,3 +8,5 @@
   - npm init
   - npm install readline-sync --save
   - npm install package.json
+  - npm install --save express body-parser mongoose
+  - 

@@ -9,4 +9,10 @@
   - npm install readline-sync --save
   - npm install package.json
   - npm install --save express body-parser mongoose
-  - 
+  
+  
+run a normal node.js file
+
+go to termianl - node <file_name>
+               - node app.js
+               

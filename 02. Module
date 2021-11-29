@@ -1,0 +1,20 @@
+//to watch what is module
+
+console.log(module);
+
+// to export variables from a file
+
+module.exports = {name1, name2};
+
+// to export fucntion
+
+module.exports = sayHi;
+
+//import funciton or variables
+
+const names = require('./name');
+const sayHi = require('./print');
+
+//to take only one variable
+
+const {name1} = require('./name');

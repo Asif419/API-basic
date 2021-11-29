@@ -18,3 +18,20 @@ const sayHi = require('./print');
 //to take only one variable
 
 const {name1} = require('./name');
+
+//to export as an array
+
+module.exports.items = ['abcccc', 'abcccc2'];
+
+// to import an array
+
+const names1 = require('./alternative');
+
+// to import a 
+
+const person = {
+    name: 'asif',
+    name1: 'shah',
+}
+module.exports.person = person;
+
